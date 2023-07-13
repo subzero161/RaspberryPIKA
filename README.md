@@ -34,7 +34,20 @@ I have paid $22.99 and would not an any more than that on a battery for this pro
 Feel free to use any you have lying around.
 ## Cables
 I am using the USB A to USB C cable that comes with the battery. As far as the cable for the keyboard, I had one lying around that met my needs.
-I wanted an angled type C connector so it took less space on the battery, but it is a bulky cable. I have looked on amazon for alternate products and so far have come up with this:
+I wanted an angled type C connector so it took less space on the battery, but it is a bulky cable. I have looked on Amazon for alternate products and so far have come up with this:
 https://www.amazon.com/gp/product/B0BDKJ5BWN/ref=ox_sc_act_title_2?smid=A1MWUQFOGVW3MJ&th=1
 MSRP $6.98, price fluctuates, keep an eye out
+## Miscellaneous Items that you will need
+Heavy-duty double-sided tape. I had some lying around from other things around the house but I am using this one.
+I am also using velcro to attach the keyboard since I want to use the keyboard on other projects simultaneously.
+
+## Operating System
+Kali Linux for ARM
+Download the latest 64-bit version
+Kali for Raspberry PI has native support for DSI displays.
+https://www.kali.org/get-kali/#kali-arm
+
+## Step 1
+### Setting up the Raspberry PI
+## Step 2 
 
