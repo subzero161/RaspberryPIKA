@@ -37,9 +37,20 @@ I am using the USB A to USB C cable that comes with the battery. As far as the c
 I wanted an angled type C connector so it took less space on the battery, but it is a bulky cable. I have looked on Amazon for alternate products and so far have come up with this:
 https://www.amazon.com/gp/product/B0BDKJ5BWN/ref=ox_sc_act_title_2?smid=A1MWUQFOGVW3MJ&th=1
 MSRP $6.98, price fluctuates, keep an eye out
+## Fan/Heatsink
+I am using a heatsink and fan from some other projects and do not have the proper information, but I think this would make a great alternate product:
+https://www.waveshare.com/product/raspberry-pi/accessories/pi-fan-3007.htm
 ## Miscellaneous Items that you will need
-Heavy-duty double-sided tape. I had some lying around from other things around the house but I am using this one.
-I am also using velcro to attach the keyboard since I want to use the keyboard on other projects simultaneously.
+### Heavy-duty double-sided tape. 
+I had some lying around from other things around the house but I am using this one.
+https://www.homedepot.com/p/Scotch-1-in-x-1-66-yds-Permanent-Double-Sided-Extreme-Mounting-Tape-414DC-SF/203405976?MERCH=REC-_-rv_gm_pip_rr-_-312221246-_-%7B%7BproductId%7D%7D-_-N
+### Velcro
+I am also using Velcro to attach the keyboard since I want to use the keyboard on other projects simultaneously.
+https://www.amazon.com/VELCRO-Brand-Industrial-Conditions-VEL-30758-USA/dp/B09V5FV7H8/ref=sr_1_4?crid=5QADWBN9SQ2T&keywords=velcro+strips+with+adhesive+heavy+duty&qid=1689605827&sprefix=velcro%2Caps%2C88&sr=8-4
+You can also use the double-sided tape if you don't plan on using the keyboard again.
+### M2.5 thread screw and stand-off set
+You do not need this item, but I am able to integrate the battery better into the system by increasing the height with the stand-offs.
+https://www.adafruit.com/product/3299
 
 ## Operating System
 Kali Linux for ARM
@@ -49,5 +60,16 @@ https://www.kali.org/get-kali/#kali-arm
 
 ## Step 1
 ### Setting up the Raspberry PI
-## Step 2 
+#### Head to this webpage and download Raspberry Pi Imager
+https://www.raspberrypi.com/software/
+Follow instructions on how to install any OS
+#### Head to Kali website
+https://www.kali.org/get-kali/#kali-arm
+Select 64-bit for Raspberry Pi and download
+#### Follow installation instructions on how to install a custom OS
+You can also choose to use Other OS from Raspberry Pi imager and select Kali
+### Issues
+After I fully upgraded the OS using "sudo upgrade", the device exits out of the GUI, I would recommend waiting for a bit until there are solutions available. So far I have not been able to find a solid answer, so probably best to hold off on the upgrade unless you upgrade individual packages.
 
+## Step 2 
+### Assemble display, Raspberry Pi and Heatsink/Fan
