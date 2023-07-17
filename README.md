@@ -71,10 +71,10 @@ https://www.kali.org/get-kali/#kali-arm
 ### Setting up the Raspberry PI
 #### Head to this webpage and download Raspberry Pi Imager
 https://www.raspberrypi.com/software/
-Follow instructions on how to install any OS
+#### Follow instructions on how to install any OS
 #### Head to Kali website
 https://www.kali.org/get-kali/#kali-arm
-Select 64-bit for Raspberry Pi and download
+#### Select 64-bit for Raspberry Pi and download
 #### Follow installation instructions on how to install a custom OS
 You can also choose to use Other OS from Raspberry Pi imager and select Kali
 ### Issues
