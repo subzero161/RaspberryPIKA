@@ -46,7 +46,7 @@ I had some lying around from other things around the house but I am using this o
 https://www.homedepot.com/p/Scotch-1-in-x-1-66-yds-Permanent-Double-Sided-Extreme-Mounting-Tape-414DC-SF/203405976?MERCH=REC-_-rv_gm_pip_rr-_-312221246-_-%7B%7BproductId%7D%7D-_-N
 ### Velcro
 I am also using Velcro to attach the keyboard since I want to use the keyboard on other projects simultaneously.
-https://www.amazon.com/VELCRO-Brand-Industrial-Conditions-VEL-30758-USA/dp/B09V5FV7H8/ref=sr_1_4?crid=5QADWBN9SQ2T&keywords=velcro+strips+with+adhesive+heavy+duty&qid=1689605827&sprefix=velcro%2Caps%2C88&sr=8-4
+https://a.co/d/hCOx3E4
 You can also use the double-sided tape if you don't plan on using the keyboard again.
 ### M2.5 thread screw and stand-off set
 You do not need this item, but I am able to integrate the battery better into the system by increasing the height with the stand-offs.
